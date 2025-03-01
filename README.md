@@ -15,7 +15,7 @@ I’m deeply fascinated by various aspects of technology, including:
 ---
 
 ## 🌱 Currently Learning
-- **PyTest**: Eager to learn how to write simple and scalable test cases to ensure software quality.
+- Bug Hunty
 ---
 
 ## 💞 Collaboration Opportunities
