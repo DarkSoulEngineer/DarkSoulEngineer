@@ -1,22 +1,32 @@
-# I’m @DarkSoulEngineer!
+<div id="bio">
+  <h1>👨‍💻 I’m <strong>@DarkSoulEngineer</strong></h1>
+  <blockquote>
+    <p>Once a ghost in the machine, now a fragment in corrupted memory.</p>
+    <p>Built on exploits and entropy — patched by paranoia, haunted by root access.</p>
+    <p>I don't forget; the system forgets me.</p>
+  </blockquote>
 
----
+  <h2>👀 Interests</h2>
+  <ul>
+    <li>Ethical hacking & cybersecurity 🛡️</li>
+    <li>Embedded systems & microcontrollers ⚙️</li>
+  </ul>
 
-## 👀 Interests
----
+  <h2>🌱 Currently Learning</h2>
+  <ul>
+    <li>Espressif SDK (ESP32 programming in C/C++)</li>
+    <li>Advanced social engineering techniques</li>
+  </ul>
 
-## 🌱 Currently Learning
-- 
----
+  <h2>📫 Get in Touch</h2>
+  <p><strong>I’d love to connect!</strong></p>
+  <ul>
+    <li>💬 Discord: <code>milchiscatalin@gmail.com</code></li>
+    <li>📧 LinkedIn: <a href="https://www.linkedin.com/in/catalin-milchis-824b61335" target="_blank">Connect with me</a></li>
+    <li>🔗 GitHub: <a href="https://github.com/DarkSoulEngineer" target="_blank">[@DarkSoulEngineer](https://github.com/DarkSoulEngineer)</a></li>
+  </ul>
 
-## 📫 Get in Touch
-**I’d love to connect!** Here’s how you can reach me:
-
-- **Email**: [milchiscatalin@gmail.com](mailto:milchiscatalin@gmail.com)
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/catalin-milchis-824b61335/)
-
----
-
-## ⚡ Uni
-**Universitatea Transilvania** studying **Electrical Engineering and Computer Science**
----
+  <h2>⚡ Uni</h2>
+  <p>🎓 <strong>Universitatea Transilvania</strong><br>
+  📚 <strong>Electrical Engineering and Computer Science</strong></p>
+</div>
