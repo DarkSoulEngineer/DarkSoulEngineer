@@ -21,7 +21,7 @@
   <h2>📫 Get in Touch</h2>
   <p><strong>I’d love to connect!</strong></p>
   <ul>
-    <li>💬 Discord: <code>milchiscatalin@gmail.com</code></li>
+    <li>💬 Gmail: <code>milchiscatalin@gmail.com</code></li>
     <li>📧 LinkedIn: <a href="https://www.linkedin.com/in/catalin-milchis-824b61335" target="_blank">Connect with me</a></li>
     <li>🔗 GitHub: <a href="https://github.com/DarkSoulEngineer" target="_blank">[@DarkSoulEngineer](https://github.com/DarkSoulEngineer)</a></li>
   </ul>
