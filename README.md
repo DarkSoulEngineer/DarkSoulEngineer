@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/DarkSoulEngineer/DarkSoulEngineer/main/images/logo.png" alt="Banner" style="width: 100%; max-width: 1000px; border-radius: 8px;">
 </div>
 
-#
+---
 
 <!-- Bio Quote -->
 <blockquote style="font-family: 'Georgia', serif; font-style: italic; color: #555; border-left: 4px solid #4CAF50; padding-left: 1rem; margin: 1rem 0;">
@@ -12,6 +12,8 @@
   <p>𝓘’𝓶 𝓪 𝓼𝓮𝓵𝓯-𝓵𝓮𝓪𝓻𝓷𝓮𝓻, 𝓽𝓱𝓲𝓷𝓴𝓲𝓷𝓰 𝓸𝓾𝓽𝓼𝓲𝓭𝓮 𝓮𝓿𝓮𝓻𝔂 𝓫𝓸𝔁.</p>
   <p>𝓣𝓱𝓮 𝓼𝔂𝓼𝓽𝓮𝓶 𝓽𝓻𝓲𝓮𝓼 𝓽𝓸 𝓯𝓸𝓻𝓰𝓮𝓽 𝓶𝓮 𝓫𝓾𝓽 𝓘 𝓻𝓮𝔀𝓻𝓲𝓽𝓮 𝔀𝓱𝓪𝓽 𝓲𝓽 𝓬𝓪𝓷’𝓽 𝓮𝓻𝓪𝓼𝓮.</p>
 </blockquote>
+
+---
 
 <h2 style="border-bottom: 2px solid #4CAF50; padding-bottom: 0.3rem; margin-top: 2rem;">👀 Interests</h2>
 <ul style="font-size: 1.1rem; margin-left: 1.2rem;">
