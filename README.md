@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DarkSoulEngineer/DarkSoulEngineer/main/images/logo.png" alt="Banner" style="width:100%; max-width:1000px;>
+  <img src="https://raw.githubusercontent.com/DarkSoulEngineer/DarkSoulEngineer/main/images/logo.png" alt="Banner" style="width:100%>
 </div>
     
-<div id="bio" align="left">
+<div id="bio">
   <blockquote>
     <p>Once a ghost in the machine, now a fragment in corrupted memory.</p>
     <p>Built on exploits and entropy — patched by paranoia, haunted by root access.</p>
