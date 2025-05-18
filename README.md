@@ -10,7 +10,7 @@
   <a href="mailto:milchiscatalin@gmail.com">
     <img src="https://img.shields.io/badge/-milchiscatalin@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/catalin-milchis-824b61335">
+  <a href="https://www.linkedin.com/in/milchis-catalin-marian-824b61335">
     <img src="https://img.shields.io/badge/-Catalin_Milchis-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/DarkSoulEngineer">
