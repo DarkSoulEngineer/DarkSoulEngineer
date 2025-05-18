@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DarkSoulEngineer/DarkSoulEngineer/branch-name/images/logo.png" alt="Logo" width="300">
+</div>
 <div id="bio">
   <h1>👨‍💻 I’m <strong>@DarkSoulEngineer</strong></h1>
   <blockquote>
