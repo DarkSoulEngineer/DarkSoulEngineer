@@ -3,13 +3,7 @@
   <img src="https://raw.githubusercontent.com/DarkSoulEngineer/DarkSoulEngineer/main/images/logo.png" alt="Banner" style="width: 100%; max-width: 1000px; border-radius: 8px;">
 </div>
 
-<h2 style="border-bottom: 2px solid #4CAF50; padding-bottom: 0.3rem;">⚡ Uni</h2>
-<p style="font-size: 1.1rem; margin: 0.3rem 0;">
-  🎓 <strong>Universitatea Transilvania</strong><br>
-  📚 <strong>Electrical Engineering and Computer Science</strong>
-</p>
-
-<br>
+#
 
 <!-- Bio Quote -->
 <blockquote style="font-family: 'Georgia', serif; font-style: italic; color: #555; border-left: 4px solid #4CAF50; padding-left: 1rem; margin: 1rem 0;">
