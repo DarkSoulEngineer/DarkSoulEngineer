@@ -36,4 +36,6 @@
 
 #
 
-![snake gif](https://github.com/DarkSoulEngineer/DarkSoulEngineer/blob/output/github-snake-dark.svg)
+<div align="center">
+  <img src="https://github.com/DarkSoulEngineer/DarkSoulEngineer/blob/output/github-snake-dark.svg" alt="snake gif" style="width: 100%; max-width: 100%;">
+</div>
