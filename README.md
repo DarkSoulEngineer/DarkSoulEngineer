@@ -1,9 +1,11 @@
+--- <!-- Big Line -->
+
 <!-- Banner Image -->
 <div align="center" style="margin-bottom: 1.5rem;">
   <img src="https://raw.githubusercontent.com/DarkSoulEngineer/DarkSoulEngineer/main/images/logo.png" alt="Banner" style="width: 100%; max-width: 1000px; border-radius: 8px;">
 </div>
 
----
+--- <!-- Big Line -->
 
 <!-- Bio Quote -->
 <blockquote style="font-family: 'Georgia', serif; font-style: italic; color: #555; border-left: 4px solid #4CAF50; padding-left: 1rem; margin: 1rem 0;">
@@ -13,11 +15,13 @@
   <p>𝓣𝓱𝓮 𝓼𝔂𝓼𝓽𝓮𝓶 𝓽𝓻𝓲𝓮𝓼 𝓽𝓸 𝓯𝓸𝓻𝓰𝓮𝓽 𝓶𝓮 𝓫𝓾𝓽 𝓘 𝓻𝓮𝔀𝓻𝓲𝓽𝓮 𝔀𝓱𝓪𝓽 𝓲𝓽 𝓬𝓪𝓷’𝓽 𝓮𝓻𝓪𝓼𝓮.</p>
 </blockquote>
 
----
+--- <!-- Big Line -->
 
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Language-C++%2FC-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Platform-Espressif-informational?style=flat&logo=esp32&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Software-CST_Suite-informational?style=flat&color=2bbc8a) ![](https://img.shields.io/badge/Software-MATLAB-informational?style=flat&logo=mathworks&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Software-Power_Apps-informational?style=flat&logo=microsoft-powerapps&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+
+# <!-- Small Line -->
 
 <!-- Message for you -->
 <h3>MY FRIEND</h3>
