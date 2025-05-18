@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DarkSoulEngineer/DarkSoulEngineer/main/images/logo.png" alt="Logo" width="300">
+  <img src="https://raw.githubusercontent.com/DarkSoulEngineer/DarkSoulEngineer/main/images/logo.png" alt="Banner" style="width:100%; max-width:1000px;>
 </div>
 <div id="bio">
   <h1>👨‍💻 I’m <strong>@DarkSoulEngineer</strong></h1>
