@@ -33,4 +33,4 @@
 
 #
 
-![snake gif](https://github.com/xdarksoulEngineer/xdarksoulEngineer/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/DarkSoulEngineer/DarkSoulEngineer/blob/output/github-snake-dark.svg)
