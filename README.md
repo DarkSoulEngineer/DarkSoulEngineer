@@ -9,9 +9,11 @@
 <!-- Big Line -->
 --- 
   
-![Gmail Badge](https://img.shields.io/badge/-milchiscatalin@gmail.com-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:milchiscatalin@gmail.com)](mailto:milchiscatalin@gmail.com)
-![LinkedIn Badge](https://img.shields.io/badge/-Catalin_Milchis-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/catalin-milchis-824b61335)](https://www.linkedin.com/in/catalin-milchis-824b61335)  
-![GitHub Badge](https://img.shields.io/badge/-@DarkSoulEngineer-181717?style=flat&logo=github&logoColor=white&link=https://github.com/DarkSoulEngineer)](https://github.com/DarkSoulEngineer)
+<p align="center">
+[![Gmail Badge](https://img.shields.io/badge/-milchiscatalin@gmail.com-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:milchiscatalin@gmail.com)](mailto:milchiscatalin@gmail.com)  
+[![LinkedIn Badge](https://img.shields.io/badge/-Catalin_Milchis-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/catalin-milchis-824b61335)](https://www.linkedin.com/in/catalin-milchis-824b61335)  
+[![GitHub Badge](https://img.shields.io/badge/-@DarkSoulEngineer-181717?style=flat&logo=github&logoColor=white&link=https://github.com/DarkSoulEngineer)](https://github.com/DarkSoulEngineer)
+</p>
 
 <!-- Bio Quote -->
 <blockquote style="font-family: 'Georgia', serif; font-style: italic; color: #555; border-left: 4px solid #4CAF50; padding-left: 1rem; margin: 1rem 0;">
