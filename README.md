@@ -30,4 +30,7 @@
   <p>🎓 <strong>Universitatea Transilvania</strong><br>
   📚 <strong>Electrical Engineering and Computer Science</strong></p>
 </div>
+
+#
+
 ![snake gif](https://github.com/xdarksoulEngineer/xdarksoulEngineer/blob/output/github-snake-dark.svg)
