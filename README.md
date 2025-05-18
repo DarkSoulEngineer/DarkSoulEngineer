@@ -15,17 +15,14 @@
 
 ---
 
-<h2 style="border-bottom: 2px solid #4CAF50; padding-bottom: 0.3rem; margin-top: 2rem;">👀 Interests</h2>
-<ul style="font-size: 1.1rem; margin-left: 1.2rem;">
-  <li>Ethical hacking & cybersecurity 🛡️</li>
-  <li>Embedded systems & microcontrollers ⚙️</li>
-</ul>
+## 🔧 Technologies & Tools
 
-<h2 style="border-bottom: 2px solid #4CAF50; padding-bottom: 0.3rem; margin-top: 2rem;">🌱 Currently Learning</h2>
-<ul style="font-size: 1.1rem; margin-left: 1.2rem;">
-  <li>Espressif SDK (ESP32 programming in C/C++)</li>
-  <li>Advanced social engineering techniques</li>
-</ul>
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 <!-- Message for you -->
 <h3>MY FRIEND</h3>
