@@ -31,6 +31,13 @@
   <li>Advanced social engineering techniques</li>
 </ul>
 
+<!-- Message for you -->
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow" style="width: 100%; max-width: 1000px; border-radius: 8px;">
+</div>
+<br>
+
 <h2 style="border-bottom: 2px solid #4CAF50; padding-bottom: 0.3rem; margin-top: 2rem;">📫 Get in Touch</h2>
 <p style="font-weight: bold; font-size: 1.1rem;">I’d love to connect!</p>
 <ul style="font-size: 1.1rem; margin-left: 1.2rem;">
@@ -38,13 +45,6 @@
   <li>📧 LinkedIn: <a href="https://www.linkedin.com/in/catalin-milchis-824b61335" target="_blank" rel="noopener noreferrer" style="color: #4CAF50; text-decoration: none;">Connect with me</a></li>
   <li>🔗 GitHub: <a href="https://github.com/DarkSoulEngineer" target="_blank" rel="noopener noreferrer" style="color: #4CAF50; text-decoration: none;">@DarkSoulEngineer</a></li>
 </ul>
-
-<!-- Message for you -->
-<br>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
-</div>
-<br>
 
 <!-- Snake Contribution Animation -->
 <div align="center" style="margin-top: 2rem;">
