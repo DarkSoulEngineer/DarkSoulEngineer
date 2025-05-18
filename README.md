@@ -39,6 +39,13 @@
   <li>🔗 GitHub: <a href="https://github.com/DarkSoulEngineer" target="_blank" rel="noopener noreferrer" style="color: #4CAF50; text-decoration: none;">@DarkSoulEngineer</a></li>
 </ul>
 
+<!-- Message for you -->
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
+</div>
+<br>
+
 <!-- Snake Contribution Animation -->
 <div align="center" style="margin-top: 2rem;">
   <img src="https://raw.githubusercontent.com/DarkSoulEngineer/DarkSoulEngineer/output/github-snake-dark.svg" alt="snake gif" style="width: 100%; max-width: 1000px; border-radius: 8px;">
