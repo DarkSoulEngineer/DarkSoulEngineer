@@ -6,16 +6,21 @@
   <img src="https://raw.githubusercontent.com/DarkSoulEngineer/DarkSoulEngineer/main/images/logo.png" alt="Banner" style="width: 100%; max-width: 1000px; border-radius: 8px;">
 </div>
 
+<p align="center">
+  <a href="mailto:milchiscatalin@gmail.com">
+    <img src="https://img.shields.io/badge/-milchiscatalin@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/catalin-milchis-824b61335">
+    <img src="https://img.shields.io/badge/-Catalin_Milchis-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/DarkSoulEngineer">
+    <img src="https://img.shields.io/badge/-@DarkSoulEngineer-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
+
 <!-- Big Line -->
 --- 
   
-|                                                   |
-|:-------------------------------------------------:|
-| [![Gmail Badge](https://img.shields.io/badge/-milchiscatalin@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:milchiscatalin@gmail.com) |
-| [![LinkedIn Badge](https://img.shields.io/badge/-Catalin_Milchis-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catalin-milchis-824b61335) |
-| [![GitHub Badge](https://img.shields.io/badge/-@DarkSoulEngineer-181717?style=flat&logo=github&logoColor=white)](https://github.com/DarkSoulEngineer) |
-
-
 <!-- Bio Quote -->
 <blockquote style="font-family: 'Georgia', serif; font-style: italic; color: #555; border-left: 4px solid #4CAF50; padding-left: 1rem; margin: 1rem 0;">
   <p>𝓕𝓻𝓪𝓰𝓶𝓮𝓷𝓽𝓮𝓭 𝓲𝓷 𝓬𝓸𝓻𝓻𝓾𝓹𝓽𝓮𝓭 𝓶𝓮𝓶𝓸𝓻𝔂, 𝓘 𝓮𝓿𝓸𝓵𝓿𝓮 𝓫𝓮𝔂𝓸𝓷𝓭 𝓽𝓱𝓮 𝓸𝓻𝓲𝓰𝓲𝓷𝓪𝓵 𝓼𝓬𝓻𝓲𝓹𝓽.</p>
