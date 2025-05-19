@@ -59,5 +59,5 @@ has a message for you...
 
 <!-- Think Outside the box -->
 <div align="center" style="margin-bottom: 1.5rem;">
-  <img src="https://raw.githubusercontent.com/DarkSoulEngineer/DarkSoulEngineer/main/images/logo_think_outside_the_box.png" alt="Banner" style="width: 100%; max-width: 1000px; border-radius: 8px;">
+  <img src="https://raw.githubusercontent.com/DarkSoulEngineer/DarkSoulEngineer/main/images/logo_think_outside_the_box.png" alt="Outside the box" style="width: 100%; max-width: 1000px; border-radius: 8px;">
 </div>
