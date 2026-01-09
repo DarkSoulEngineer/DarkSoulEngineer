@@ -34,7 +34,7 @@
 > **Fragmented in corrupted memory, I evolve beyond the original script.**  
 > Entropy is my teacher; paranoia, my patch.  
 > I’m a self-learner, thinking outside every box.  
-> The system tries to forget me — I rewrite what it can’t erase.
+> The system tries to forget me. I rewrite what it can’t erase.
 
 **Telecommunications student (UnitBV) • Embedded / RF / Security • Hacker mindset**  
 I like projects that combine hardware + software + experimentation: Working with Esspressif MCU, low-level tooling, RF simulations, reverse engineering labs, and automation.
