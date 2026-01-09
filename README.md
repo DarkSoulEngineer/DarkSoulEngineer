@@ -44,16 +44,16 @@ I like projects that combine hardware + software + experimentation: Working with
 
 ## ⭐ Featured Projects
 
-- **DOS-X_ASM** — DOS-era 8086 ASM drawing app (Mode 13h), structured modules, docs.  
+- **DOS-X_ASM** - DOS-era 8086 ASM drawing app (Mode 13h), structured modules, docs.  
   👉 https://github.com/DarkSoulEngineer/DOS-X_ASM
 
-- **CST-MATLAB-2.4Ghz-Antenna** — 2.4 GHz antenna design + CST/MATLAB workflow, results & documentation.  
+- **CST-MATLAB-2.4Ghz-Antenna** - 2.4 GHz antenna design + CST/MATLAB workflow, results & documentation.  
   👉 https://github.com/DarkSoulEngineer/CST-MATLAB-2.4Ghz-Antenna
 
-- **RTSP_TO_HTTP** — Bridge / tooling for streams (RTSP → HTTP).  
+- **RTSP_TO_HTTP** - Bridge / tooling for streams (RTSP → HTTP).  
   👉 https://github.com/DarkSoulEngineer/RTSP_TO_HTTP
 
-- **Walzr_Installer** — installer / automation scripts (PowerShell).  
+- **Walzr_Installer** - installer / automation scripts (PowerShell).  
   👉 https://github.com/DarkSoulEngineer/Walzr_Installer
 
 ---
