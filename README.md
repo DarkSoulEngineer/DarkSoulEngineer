@@ -37,7 +37,7 @@
 > The system tries to forget me. I rewrite what it can’t erase.
 
 **Telecommunications student (UnitBV) • Embedded / RF / Security • Hacker mindset**  
-I like projects that combine hardware + software + experimentation: Working with Esspressif MCU, low-level tooling, RF simulations, reverse engineering labs, and automation.
+I like projects that combine hardware + software + experimentation: Working with Esspressif MCU, Agentic AI, low-level tooling, RF simulations, reverse engineering labs, and automation.
 
 <!-- Small Line -->
 # 
