@@ -59,6 +59,11 @@
 ![](https://img.shields.io/badge/T-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=8957e5)
 ![](https://img.shields.io/badge/T-PowerShell-informational?style=flat-square&logo=powershell&logoColor=white&color=8957e5)
 
+![](https://img.shields.io/badge/V-VirtualBox-informational?style=flat-square&logo=virtualbox&logoColor=white&color=da3f5a)
+![](https://img.shields.io/badge/V-VMware-informational?style=flat-square&logo=vmware&logoColor=white&color=da3f5a)
+![](https://img.shields.io/badge/V-QEMU-informational?style=flat-square&color=da3f5a)
+![](https://img.shields.io/badge/V-Proxmox-informational?style=flat-square&logo=proxmox&logoColor=white&color=da3f5a)
+
 ![](https://img.shields.io/badge/HW-Espressif-informational?style=flat-square&logo=espressif&logoColor=white&color=cf6f3f)
 ![](https://img.shields.io/badge/HW-PlatformIO-informational?style=flat-square&logo=platformio&logoColor=white&color=cf6f3f)
 ![](https://img.shields.io/badge/HW-Arduino-informational?style=flat-square&logo=arduino&logoColor=white&color=cf6f3f)
