@@ -2,7 +2,7 @@
 <tr>
 <td valign="top">
 
-```
+<pre style="color:#79c0ff;background-color:#0d1117;padding:12px 16px;border-radius:6px;font-size:13px;line-height:1.2">
               :..::==:                    
           ::.... ....::::::               
         ==::::. .............::           
@@ -32,37 +32,36 @@
  .... .      .=+*****#########*+=:.  .. . 
 ...  ..         ..:::======::.     ..  .  
     ..                          .      ...
-..  .                                    .
-```
+..  .                                    .</pre>
 
 </td>
 <td valign="top">
 
-```asciidoc
-OS:           Windows 11 / Arch Linux / Android
-Uptime:       24 years
-School:       Universitatea Transilvania (UnitBV)
-Major:        Electrical Engineering & Computer Science
-Host:         Embedded / RF / Security Engineer
-IDE:          VS Code, NeoVim
-Languages:    C, C++, Python, Java, ASM (x86), MATLAB
-              JavaScript, HTML, CSS, Bash, LaTeX
-Interests:    Embedded Systems, RF Hacking, Reverse Engineering
-              Agentic AI, Low-level Tooling, Automation
-Hobbies:      RF experimentation, PCB design, CTF challenges
-              OS tinkering (Hyprland, GlazeWM, WinDots)
+<pre style="color:#c9d1d9;background-color:#0d1117;padding:12px 16px;border-radius:6px;font-size:13px;line-height:1.4">
+  <span style="color:#79c0ff">OS</span><span style="color:#c9d1d9">:           Windows 11 / Arch Linux / Android</span>
+  <span style="color:#79c0ff">Uptime</span><span style="color:#c9d1d9">:       24 years</span>
+  <span style="color:#79c0ff">School</span><span style="color:#c9d1d9">:       Universitatea Transilvania (UnitBV)</span>
+  <span style="color:#79c0ff">Major</span><span style="color:#c9d1d9">:        Electrical Engineering & Computer Science</span>
+  <span style="color:#79c0ff">Host</span><span style="color:#c9d1d9">:         Embedded / RF / Security Engineer</span>
+  <span style="color:#79c0ff">IDE</span><span style="color:#c9d1d9">:          VS Code, NeoVim</span>
+  <span style="color:#79c0ff">Languages</span><span style="color:#c9d1d9">:    C, C++, Python, Java, ASM (x86), MATLAB</span>
+  <span style="color:#c9d1d9">              JavaScript, HTML, CSS, Bash, LaTeX</span>
+  <span style="color:#79c0ff">Interests</span><span style="color:#c9d1d9">:    Embedded Systems, RF Hacking, Reverse Engineering</span>
+  <span style="color:#c9d1d9">              Agentic AI, Low-level Tooling, Automation</span>
+  <span style="color:#79c0ff">Hobbies</span><span style="color:#c9d1d9">:      RF experimentation, PCB design, CTF challenges</span>
+  <span style="color:#c9d1d9">              OS tinkering (Hyprland, GlazeWM, WinDots)</span>
 
-Contact:
-  Email:      milchiscatalin@gmail.com
-  LinkedIn:   Catalin Milchis
-  Discord:    (private)
-  GitHub:     @DarkSoulEngineer
+  <span style="color:#ffa657;font-weight:bold">Contact:</span>
+  <span style="color:#79c0ff">  Email</span><span style="color:#c9d1d9">:      milchiscatalin@gmail.com</span>
+  <span style="color:#79c0ff">  LinkedIn</span><span style="color:#c9d1d9">:   Catalin Milchis</span>
+  <span style="color:#79c0ff">  Discord</span><span style="color:#c9d1d9">:    (private)</span>
+  <span style="color:#79c0ff">  GitHub</span><span style="color:#c9d1d9">:     @DarkSoulEngineer</span>
 
-GitHub Stats:
-  Repos:      18
-  Followers:  3
-  Following:  6
-```
+  <span style="color:#ffa657;font-weight:bold">GitHub Stats:</span>
+  <span style="color:#79c0ff">  Repos</span><span style="color:#c9d1d9">:      18</span>
+  <span style="color:#79c0ff">  Followers</span><span style="color:#c9d1d9">:  3</span>
+  <span style="color:#79c0ff">  Following</span><span style="color:#c9d1d9">:  6</span>
+</pre>
 
 </td>
 </tr>
