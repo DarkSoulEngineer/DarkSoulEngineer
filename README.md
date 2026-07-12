@@ -64,10 +64,10 @@
 ![](https://img.shields.io/badge/HW-Arduino-informational?style=flat-square&logo=arduino&logoColor=white&color=cf6f3f)
 ![](https://img.shields.io/badge/HW-KiCad-informational?style=flat-square&logo=kicad&logoColor=white&color=cf6f3f)
 
-![](https://img.shields.io/badge/V-VirtualBox-informational?style=flat-square&logo=virtualbox&logoColor=white&color=cf6f3f)
-![](https://img.shields.io/badge/V-VMware-informational?style=flat-square&logo=vmware&logoColor=white&color=cf6f3f)
-![](https://img.shields.io/badge/V-QEMU-informational?style=flat-square&color=cf6f3f)
-![](https://img.shields.io/badge/V-Proxmox-informational?style=flat-square&logo=proxmox&logoColor=white&color=cf6f3f)
+![](https://img.shields.io/badge/V-VirtualBox-informational?style=flat-square&logo=virtualbox&logoColor=white&color=da3f5a)
+![](https://img.shields.io/badge/V-VMware-informational?style=flat-square&logo=vmware&logoColor=white&color=da3f5a)
+![](https://img.shields.io/badge/V-QEMU-informational?style=flat-square&color=da3f5a)
+![](https://img.shields.io/badge/V-Proxmox-informational?style=flat-square&logo=proxmox&logoColor=white&color=da3f5a)
 
 ![](https://img.shields.io/badge/SW-CST%20Suite-informational?style=flat-square&color=6e7681)
 ![](https://img.shields.io/badge/SW-Ghidra-informational?style=flat-square&color=6e7681)
