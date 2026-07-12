@@ -32,35 +32,40 @@
  ...... ...  :=+**HHHHHHHHHHHH*+=-.  .....
 .... .. .. ..   .::---===---:..    ... ...
 ......  ..   .                 .....  ....
-...... ...    .        .  ......  ........</pre>
+...... ...    .        .  ......  ........
+</pre>
 
 </td>
 <td valign="top">
 
 <pre style="color:#c9d1d9;background-color:#0d1117;padding:12px 16px;border-radius:6px;font-size:13px;line-height:1.4">
-  <span style="color:#79c0ff">OS</span><span style="color:#c9d1d9">:           Windows 11 / Arch Linux / Android</span>
-  <span style="color:#79c0ff">Uptime</span><span style="color:#c9d1d9">:       24 years</span>
-  <span style="color:#79c0ff">School</span><span style="color:#c9d1d9">:       Universitatea Transilvania (UnitBV)</span>
-  <span style="color:#79c0ff">Major</span><span style="color:#c9d1d9">:        Electrical Engineering & Computer Science</span>
-  <span style="color:#79c0ff">Host</span><span style="color:#c9d1d9">:         Embedded / RF / Security Engineer</span>
-  <span style="color:#79c0ff">IDE</span><span style="color:#c9d1d9">:          VS Code, NeoVim</span>
-  <span style="color:#79c0ff">Languages</span><span style="color:#c9d1d9">:    C, C++, Python, Java, ASM (x86), MATLAB</span>
-  <span style="color:#c9d1d9">              JavaScript, HTML, CSS, Bash, LaTeX</span>
-  <span style="color:#79c0ff">Interests</span><span style="color:#c9d1d9">:    Embedded Systems, RF Hacking, Reverse Engineering</span>
-  <span style="color:#c9d1d9">              Agentic AI, Low-level Tooling, Automation</span>
-  <span style="color:#79c0ff">Hobbies</span><span style="color:#c9d1d9">:      RF experimentation, PCB design, CTF challenges</span>
-  <span style="color:#c9d1d9">              OS tinkering (Hyprland, GlazeWM, WinDots)</span>
+  <span style="color:#ffa657">root@darksoul</span> -----------------------------------------------
+  --------------------------------------------------------------
+  <span style="color:#58a6ff">OS</span> ....................... <span style="color:#c9d1d9">Windows 11 / Arch Linux / Android</span>
+  <span style="color:#58a6ff">Uptime</span> ............................................ <span style="color:#c9d1d9">24 years</span>
+  <span style="color:#58a6ff">School</span> ................. <span style="color:#c9d1d9">Universitatea Transilvania (UnitBV)</span>
+  <span style="color:#58a6ff">Major</span> ............ <span style="color:#c9d1d9">Electrical Engineering & Computer Science</span>
+  <span style="color:#8b949e">--Host</span> ................... <span style="color:#c9d1d9">Embedded / RF / Security Engineer</span>
+  <span style="color:#8b949e">--IDE</span> ...................................... <span style="color:#c9d1d9">VS Code, NeoVim</span>
+  <span style="color:#58a6ff">Languages</span> .......... <span style="color:#c9d1d9">C, C++, Python, Java, ASM (x86), MATLAB</span>
+  <span style="color:#c9d1d9">JavaScript, HTML, CSS, Bash, LaTeX</span>
+  <span style="color:#58a6ff">Interests</span>  <span style="color:#c9d1d9">Embedded Systems, RF Hacking, Reverse Engineering</span>
+  <span style="color:#c9d1d9">Agentic AI, Low-level Tooling, Automation</span>
+  <span style="color:#58a6ff">Hobbies</span> ..... <span style="color:#c9d1d9">RF experimentation, PCB design, CTF challenges</span>
+  <span style="color:#c9d1d9">OS tinkering (Hyprland, GlazeWM, WinDots)</span>
 
-  <span style="color:#ffa657;font-weight:bold">Contact:</span>
-  <span style="color:#79c0ff">  Email</span><span style="color:#c9d1d9">:      milchiscatalin@gmail.com</span>
-  <span style="color:#79c0ff">  LinkedIn</span><span style="color:#c9d1d9">:   Catalin Milchis</span>
-  <span style="color:#79c0ff">  Discord</span><span style="color:#c9d1d9">:    (private)</span>
-  <span style="color:#79c0ff">  GitHub</span><span style="color:#c9d1d9">:     @DarkSoulEngineer</span>
+  <span style="color:#ffa657">Contact</span> -----------------------------------------------------
+  --------------------------------------------------------------
+  <span style="color:#8b949e">--Email</span> ........................... <span style="color:#c9d1d9">milchiscatalin@gmail.com</span>
+  <span style="color:#8b949e">--LinkedIn</span> ................................. <span style="color:#c9d1d9">Catalin Milchis</span>
+  <span style="color:#8b949e">--Discord</span> ........................................ <span style="color:#c9d1d9">(private)</span>
+  <span style="color:#8b949e">--GitHub</span> ................................. <span style="color:#c9d1d9">@DarkSoulEngineer</span>
 
-  <span style="color:#ffa657;font-weight:bold">GitHub Stats:</span>
-  <span style="color:#79c0ff">  Repos</span><span style="color:#c9d1d9">:      18</span>
-  <span style="color:#79c0ff">  Followers</span><span style="color:#c9d1d9">:  3</span>
-  <span style="color:#79c0ff">  Following</span><span style="color:#c9d1d9">:  6</span>
+  <span style="color:#ffa657">GitHub Stats</span> ------------------------------------------------
+  --------------------------------------------------------------
+  <span style="color:#8b949e">--Repos</span> ................................................. <span style="color:#c9d1d9">18</span>
+  <span style="color:#8b949e">--Followers</span> .............................................. <span style="color:#c9d1d9">3</span>
+  <span style="color:#8b949e">--Following</span> .............................................. <span style="color:#c9d1d9">6</span>
 </pre>
 
 </td>
