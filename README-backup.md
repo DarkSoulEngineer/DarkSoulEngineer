@@ -4,14 +4,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-[![Repos](https://img.shields.io/badge/Repos-18-2bbc8a?style=flat)](https://github.com/DarkSoulEngineer)
-[![Followers](https://img.shields.io/github/followers/DarkSoulEngineer?style=social&label=Followers&color=2bbc8a)](https://github.com/DarkSoulEngineer)
-[![Stars](https://img.shields.io/github/stars/DarkSoulEngineer?style=social&label=Stars&color=2bbc8a)](https://github.com/DarkSoulEngineer)
-
----
-
 ## ⭐ Featured Projects
 
 - **[DOS-X_ASM](https://github.com/DarkSoulEngineer/DOS-X_ASM)** — 16-bit Assembly (ASM) graphics application, draws in VRAM
