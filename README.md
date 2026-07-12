@@ -43,23 +43,23 @@
 <td valign="top">
 
 ```asciidoc
-OS:           Windows 11 / Arch Linux / Android 14
-Uptime:       21 years, 8 months, 12 days
+OS:           Windows 11 / Arch Linux / Android
+Uptime:       24 years
 School:       Universitatea Transilvania (UnitBV)
 Major:        Electrical Engineering & Computer Science
 Host:         Embedded / RF / Security Engineer
-IDE:          VS Code, IntelliJ IDEA, NeoVim
+IDE:          VS Code, NeoVim
 Languages:    C, C++, Python, Java, ASM (x86), MATLAB
               JavaScript, HTML, CSS, Bash, LaTeX
 Interests:    Embedded Systems, RF Hacking, Reverse Engineering
               Agentic AI, Low-level Tooling, Automation
 Hobbies:      RF experimentation, PCB design, CTF challenges
-              OS tinkering (Hyprland, GlazeWM), Dotfiles
+              OS tinkering (Hyprland, GlazeWM, WinDots)
 
 Contact:
   Email:      milchiscatalin@gmail.com
   LinkedIn:   Catalin Milchis
-  Discord:    darksoul_engineer
+  Discord:    (private)
   GitHub:     @DarkSoulEngineer
 
 GitHub Stats:
@@ -81,7 +81,7 @@ GitHub Stats:
 - **[RTSP_TO_HTTP](https://github.com/DarkSoulEngineer/RTSP_TO_HTTP)** — Bridge / tooling for RTSP to HTTP streams
 - **[CC1101_DRIVER](https://github.com/DarkSoulEngineer/CC1101_DRIVER)** — Low-level driver for CC1101 RF module
 - **[infoTRON](https://github.com/DarkSoulEngineer/infoTRON)** — Informatics platform for Mechatronics students
-- **[HyprDot](https://github.com/DarkSoulEngineer/HyprDot)** — Hyprland dotfiles
+- **[WinDots](https://github.com/DarkSoulEngineer/windots)** — Windows dotfiles
 
 ---
 
