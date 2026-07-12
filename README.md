@@ -43,6 +43,7 @@
 
 ![](https://img.shields.io/badge/C-C++-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=1a7f37)
 ![](https://img.shields.io/badge/C-Python-informational?style=flat-square&logo=python&logoColor=white&color=1a7f37)
+![](https://img.shields.io/badge/C-Rust-informational?style=flat-square&logo=rust&logoColor=white&color=1a7f37)
 ![](https://img.shields.io/badge/C-Java-informational?style=flat-square&logo=java&logoColor=white&color=1a7f37)
 ![](https://img.shields.io/badge/C-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=1a7f37)
 ![](https://img.shields.io/badge/C-Assembly-informational?style=flat-square&logo=assembly&logoColor=white&color=1a7f37)
@@ -50,12 +51,22 @@
 
 ![](https://img.shields.io/badge/T-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=8957e5)
 ![](https://img.shields.io/badge/T-Git-informational?style=flat-square&logo=git&logoColor=white&color=8957e5)
+![](https://img.shields.io/badge/T-GNU%20Radio-informational?style=flat-square&logo=gnuradio&logoColor=white&color=8957e5)
+![](https://img.shields.io/badge/T-Wireshark-informational?style=flat-square&logo=wireshark&logoColor=white&color=8957e5)
+![](https://img.shields.io/badge/T-SDR-informational?style=flat-square&color=8957e5)
+![](https://img.shields.io/badge/T-nmap-informational?style=flat-square&color=8957e5)
+![](https://img.shields.io/badge/T-GDB-informational?style=flat-square&color=8957e5)
 ![](https://img.shields.io/badge/T-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=8957e5)
+![](https://img.shields.io/badge/T-PowerShell-informational?style=flat-square&logo=powershell&logoColor=white&color=8957e5)
 
 ![](https://img.shields.io/badge/HW-Espressif-informational?style=flat-square&logo=espressif&logoColor=white&color=cf6f3f)
+![](https://img.shields.io/badge/HW-PlatformIO-informational?style=flat-square&logo=platformio&logoColor=white&color=cf6f3f)
 ![](https://img.shields.io/badge/HW-Arduino-informational?style=flat-square&logo=arduino&logoColor=white&color=cf6f3f)
+![](https://img.shields.io/badge/HW-KiCad-informational?style=flat-square&logo=kicad&logoColor=white&color=cf6f3f)
 
 ![](https://img.shields.io/badge/SW-CST%20Suite-informational?style=flat-square&color=6e7681)
+![](https://img.shields.io/badge/SW-Ghidra-informational?style=flat-square&color=6e7681)
+![](https://img.shields.io/badge/SW-URH-informational?style=flat-square&color=6e7681)
 
 </div>
 
