@@ -8,7 +8,7 @@
 
 ### 📊 GitHub Stats
 
-[![Repos](https://img.shields.io/github/repos/DarkSoulEngineer?style=for-the-badge&logo=github&logoColor=white&color=2bbc8a)](https://github.com/DarkSoulEngineer?tab=repositories)
+[![Repos](https://img.shields.io/badge/Repos-18-2bbc8a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarkSoulEngineer?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/DarkSoulEngineer?style=for-the-badge&logo=github&logoColor=white&color=2bbc8a)](https://github.com/DarkSoulEngineer/followers)
 [![Stars](https://img.shields.io/github/stars/DarkSoulEngineer?style=for-the-badge&logo=github&logoColor=white&color=2bbc8a)](https://github.com/DarkSoulEngineer?tab=stars)
 
