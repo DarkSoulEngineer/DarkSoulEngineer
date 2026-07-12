@@ -2,7 +2,7 @@
 <tr>
 <td valign="top">
 
-<pre style="color:#79c0ff;background-color:#0d1117;padding:12px 16px;border-radius:6px;font-size:13px;line-height:1.2">
+<pre style="color:#c9d1d9;background-color:#0d1117;padding:12px 16px;border-radius:6px;font-size:13px;line-height:1.2">
               ::::-=--                    
           -::::.....::--::-               
         =--::::........::..:::-           
@@ -39,33 +39,35 @@
 <td valign="top">
 
 <pre style="color:#c9d1d9;background-color:#0d1117;padding:12px 16px;border-radius:6px;font-size:13px;line-height:1.4">
-  <span style="color:#ffa657">root@darksoul</span> -----------------------------------------------
-  --------------------------------------------------------------
-  <span style="color:#58a6ff">OS</span> ....................... <span style="color:#c9d1d9">Windows 11 / Arch Linux / Android</span>
-  <span style="color:#58a6ff">Uptime</span> ............................................ <span style="color:#c9d1d9">24 years</span>
-  <span style="color:#58a6ff">School</span> ................. <span style="color:#c9d1d9">Universitatea Transilvania (UnitBV)</span>
-  <span style="color:#58a6ff">Major</span> ............ <span style="color:#c9d1d9">Electrical Engineering & Computer Science</span>
-  <span style="color:#8b949e">--Host</span> ................... <span style="color:#c9d1d9">Embedded / RF / Security Engineer</span>
-  <span style="color:#8b949e">--IDE</span> ...................................... <span style="color:#c9d1d9">VS Code, NeoVim</span>
-  <span style="color:#58a6ff">Languages</span> .......... <span style="color:#c9d1d9">C, C++, Python, Java, ASM (x86), MATLAB</span>
-  <span style="color:#c9d1d9">JavaScript, HTML, CSS, Bash, LaTeX</span>
-  <span style="color:#58a6ff">Interests</span>  <span style="color:#c9d1d9">Embedded Systems, RF Hacking, Reverse Engineering</span>
-  <span style="color:#c9d1d9">Agentic AI, Low-level Tooling, Automation</span>
-  <span style="color:#58a6ff">Hobbies</span> ..... <span style="color:#c9d1d9">RF experimentation, PCB design, CTF challenges</span>
-  <span style="color:#c9d1d9">OS tinkering (Hyprland, GlazeWM, WinDots)</span>
+  <span style="color:#ffa657">root@darksoul</span> -------------------------------------
+  ----------------------------------------------------
+  <span style="color:#58a6ff">OS</span> ..................... <span style="color:#c9d1d9">Windows 11 / Arch / Android</span>
+  <span style="color:#58a6ff">Uptime</span> .................................... <span style="color:#c9d1d9">24 years</span>
+  <span style="color:#58a6ff">School</span> ................. <span style="color:#c9d1d9">Univ. Transilvania (UnitBV)</span>
+  <span style="color:#58a6ff">Major</span> ........................ <span style="color:#c9d1d9">EE & Computer Science</span>
+  <span style="color:#8b949e">--Host</span> ........... <span style="color:#c9d1d9">Embedded / RF / Security Engineer</span>
+  <span style="color:#8b949e">--IDE</span> .............................. <span style="color:#c9d1d9">VS Code, NeoVim</span>
+  <span style="color:#58a6ff">Languages</span> ........ <span style="color:#c9d1d9">C, C++, Python, Java, ASM, MATLAB</span>
+  <span style="color:#58a6ff">Shell</span> .................. <span style="color:#c9d1d9">Zsh + Ghostty, PowerShell 7</span>
+  <span style="color:#58a6ff">WM</span> .................. <span style="color:#c9d1d9">GlazeWM (Win), Hyprland (Arch)</span>
+  <span style="color:#58a6ff">Browser</span> ...................... <span style="color:#c9d1d9">Firefox (Zen Browser)</span>
+  <span style="color:#58a6ff">Terminal</span> .......................... <span style="color:#c9d1d9">Ghostty, WezTerm</span>
+  <span style="color:#58a6ff">Theme</span> ............................. <span style="color:#c9d1d9">Catppuccin Mocha</span>
+  <span style="color:#58a6ff">Interests</span> ............. <span style="color:#c9d1d9">Embedded, RF, RE, Agentic AI</span>
+  <span style="color:#58a6ff">Hobbies</span> ................... <span style="color:#c9d1d9">PCB design, CTF, WinDots</span>
 
-  <span style="color:#ffa657">Contact</span> -----------------------------------------------------
-  --------------------------------------------------------------
-  <span style="color:#8b949e">--Email</span> ........................... <span style="color:#c9d1d9">milchiscatalin@gmail.com</span>
-  <span style="color:#8b949e">--LinkedIn</span> ................................. <span style="color:#c9d1d9">Catalin Milchis</span>
-  <span style="color:#8b949e">--Discord</span> ........................................ <span style="color:#c9d1d9">(private)</span>
-  <span style="color:#8b949e">--GitHub</span> ................................. <span style="color:#c9d1d9">@DarkSoulEngineer</span>
+  <span style="color:#ffa657">Contact</span> -------------------------------------------
+  ----------------------------------------------------
+  <span style="color:#8b949e">--Email</span> ................... <span style="color:#c9d1d9">milchiscatalin@gmail.com</span>
+  <span style="color:#8b949e">--LinkedIn</span> ......................... <span style="color:#c9d1d9">Catalin Milchis</span>
+  <span style="color:#8b949e">--Discord</span> ................................ <span style="color:#c9d1d9">(private)</span>
+  <span style="color:#8b949e">--GitHub</span> ......................... <span style="color:#c9d1d9">@DarkSoulEngineer</span>
 
-  <span style="color:#ffa657">GitHub Stats</span> ------------------------------------------------
-  --------------------------------------------------------------
-  <span style="color:#8b949e">--Repos</span> ................................................. <span style="color:#c9d1d9">18</span>
-  <span style="color:#8b949e">--Followers</span> .............................................. <span style="color:#c9d1d9">3</span>
-  <span style="color:#8b949e">--Following</span> .............................................. <span style="color:#c9d1d9">6</span>
+  <span style="color:#ffa657">GitHub Stats</span> --------------------------------------
+  ----------------------------------------------------
+  <span style="color:#8b949e">--Repos</span> ......................................... <span style="color:#c9d1d9">18</span>
+  <span style="color:#8b949e">--Followers</span> ...................................... <span style="color:#c9d1d9">3</span>
+  <span style="color:#8b949e">--Following</span> ...................................... <span style="color:#c9d1d9">6</span>
 </pre>
 
 </td>
