@@ -97,9 +97,9 @@ Bridge that serves RTSP camera streams over HTTP.<br>
 </tr>
 <tr>
 <td valign="top">
-<a href="https://github.com/DarkSoulEngineer/LaTeX_MiroBoard"><b>LaTeX_MiroBoard</b></a><br>
-AI-assisted LaTeX detection and formula rendering on Miro boards.<br>
-<sub><code>React</code> <code>Next.js</code> <code>OpenAI</code></sub><br>
+<a href="https://github.com/DarkSoulEngineer/AsterionNetworkTopology"><b>AsterionNetworkTopology</b></a><br>
+Enterprise network simulation with Cisco routing, switching, firewall security, and centralized monitoring.<br>
+<sub><code>Cisco Packet Tracer</code> <code>Networking</code> <code>Security</code></sub><br>
 <img src="https://raw.githubusercontent.com/DarkSoulEngineer/DarkSoulEngineer/output/github-snake-dark.svg" width="1000" height="0" alt="">
 </td>
 <td valign="top">
