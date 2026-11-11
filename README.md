@@ -39,8 +39,6 @@
 
 <h3>B.Eng. Electronics & Communications</h3>
 <p><i>Transilvania University of Brașov</i><br>2022 to 2026</p>
-<img src="https://raw.githubusercontent.com/DarkSoulEngineer/DarkSoulEngineer/output/github-snake-dark.svg" width="1000" height="0" alt="">
-
 
 </td>
 <td valign="top">
@@ -59,8 +57,7 @@
 
 <h3>Community</h3>
 <p>Speaker and member of the Brașov Cybersecurity Community</p>
-<img src="https://raw.githubusercontent.com/DarkSoulEngineer/DarkSoulEngineer/output/github-snake-dark.svg" width="1000" height="0" alt="">
-
+<p>Member of Invata Cyber Community</p>
 
 </td>
 </tr>
@@ -100,13 +97,11 @@ Bridge that serves RTSP camera streams over HTTP.<br>
 <a href="https://github.com/DarkSoulEngineer/AsterionNetworkTopology"><b>AsterionNetworkTopology</b></a><br>
 Enterprise network simulation with Cisco routing, switching, firewall security, and centralized monitoring.<br>
 <sub><code>Cisco Packet Tracer</code> <code>Networking</code> <code>Security</code></sub><br>
-<img src="https://raw.githubusercontent.com/DarkSoulEngineer/DarkSoulEngineer/output/github-snake-dark.svg" width="1000" height="0" alt="">
 </td>
 <td valign="top">
 <a href="https://github.com/DarkSoulEngineer/windots"><b>WinDots</b></a><br>
 Windows dotfiles and environment setup.<br>
 <sub><code>PowerShell</code></sub><br>
-<img src="https://raw.githubusercontent.com/DarkSoulEngineer/DarkSoulEngineer/output/github-snake-dark.svg" width="1000" height="0" alt="">
 </td>
 </tr>
 </table>
@@ -122,7 +117,6 @@ Windows dotfiles and environment setup.<br>
 <b>Wireless Security: when your router is mad at you</b><br>
 <sub>CyberTechMeetup #3 · Brașov Cybersecurity Community · hosted by Arvato Systems Romania</sub><br>
 <sub>Wardriving, deauth and evil-twin attacks, packet crafting with Scapy, IoT and WPA3 weaknesses, live demo.</sub><br>
-<img src="https://raw.githubusercontent.com/DarkSoulEngineer/DarkSoulEngineer/output/github-snake-dark.svg" width="1000" height="0" alt="">
 </td>
 </tr>
 </table>
@@ -257,3 +251,4 @@ Windows dotfiles and environment setup.<br>
 </td>
 </tr>
 </table>
+<img src="https://raw.githubusercontent.com/DarkSoulEngineer/DarkSoulEngineer/output/github-snake-dark.svg" width="1000" height="0" alt="">
