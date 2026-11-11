@@ -251,4 +251,12 @@ Windows dotfiles and environment setup.<br>
 </td>
 </tr>
 </table>
-<img src="https://raw.githubusercontent.com/DarkSoulEngineer/DarkSoulEngineer/output/github-snake-dark.svg" width="1000" height="0" alt="">
+<br>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarkSoulEngineer/DarkSoulEngineer/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DarkSoulEngineer/DarkSoulEngineer/output/github-snake.svg">
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/DarkSoulEngineer/DarkSoulEngineer/output/github-snake-dark.svg" width="100%">
+  </picture>
+</p>
