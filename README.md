@@ -85,9 +85,9 @@ Low-level driver for the CC1101 sub-GHz RF transceiver.<br>
 </tr>
 <tr>
 <td valign="top">
-<a href="https://github.com/DarkSoulEngineer/DOS-X_ASM"><b>DOS-X_ASM</b></a><br>
-16-bit graphics application that draws directly into VRAM.<br>
-<sub><code>x86 Assembly</code></sub>
+<a href="https://github.com/DarkSoulEngineer/modbus"><b>modbus</b></a><br>
+Command-line Modbus client with register scanning, live monitoring, and a device simulator.<br>
+<sub><code>Python</code> <code>Modbus</code> <code>Industrial IoT</code></sub>
 </td>
 <td valign="top">
 <a href="https://github.com/DarkSoulEngineer/RTSP_TO_HTTP"><b>RTSP_TO_HTTP</b></a><br>
@@ -97,9 +97,9 @@ Bridge that serves RTSP camera streams over HTTP.<br>
 </tr>
 <tr>
 <td valign="top">
-<a href="https://github.com/DarkSoulEngineer/infoTRON"><b>infoTRON</b></a><br>
-Informatics learning platform for Mechatronics students.<br>
-<sub><code>Web</code></sub><br>
+<a href="https://github.com/DarkSoulEngineer/LaTeX_MiroBoard"><b>LaTeX_MiroBoard</b></a><br>
+AI-assisted LaTeX detection and formula rendering on Miro boards.<br>
+<sub><code>React</code> <code>Next.js</code> <code>OpenAI</code></sub><br>
 <img src="https://raw.githubusercontent.com/DarkSoulEngineer/DarkSoulEngineer/output/github-snake-dark.svg" width="1000" height="0" alt="">
 </td>
 <td valign="top">
