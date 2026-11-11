@@ -147,23 +147,28 @@ Windows dotfiles and environment setup.<br>
 </td>
 </tr>
 <tr>
-<td align="right"><b>Web</b></td>
+<td align="right"><b>Web &amp; Mobile</b></td>
 <td>
 <img src="https://img.shields.io/badge/HTML-1a7f37?style=flat-square&logo=html5&logoColor=white" alt="HTML">
 <img src="https://img.shields.io/badge/CSS-1a7f37?style=flat-square&logo=css&logoColor=white" alt="CSS">
 <img src="https://img.shields.io/badge/Flask-1a7f37?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+<img src="https://img.shields.io/badge/React-1a7f37?style=flat-square&logo=react&logoColor=white" alt="React">
+<img src="https://img.shields.io/badge/React_Native-1a7f37?style=flat-square&logo=react&logoColor=white" alt="React Native">
+<img src="https://img.shields.io/badge/Expo-1a7f37?style=flat-square&logo=expo&logoColor=white" alt="Expo">
 <img src="https://img.shields.io/badge/JSON-1a7f37?style=flat-square&logo=json&logoColor=white" alt="JSON">
 <img src="https://img.shields.io/badge/APIs-1a7f37?style=flat-square" alt="Application Programming Interfaces">
 </td>
 </tr>
 <tr>
-<td align="right"><b>Data &amp; Solvers</b></td>
+<td align="right"><b>Data, AI &amp; Solvers</b></td>
 <td>
 <img src="https://img.shields.io/badge/NumPy-1a7f37?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-<img src="https://img.shields.io/badge/pandas-1a7f37?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
-<img src="https://img.shields.io/badge/Anaconda-1a7f37?style=flat-square&logo=anaconda&logoColor=white" alt="Anaconda">
+<img src="https://img.shields.io/badge/Polars-1a7f37?style=flat-square&logo=polars&logoColor=white" alt="Polars">
 <img src="https://img.shields.io/badge/Z3-1a7f37?style=flat-square" alt="Z3 solver">
 <img src="https://img.shields.io/badge/Artificial_Intelligence-1a7f37?style=flat-square" alt="Artificial Intelligence">
+<img src="https://img.shields.io/badge/MCP-1a7f37?style=flat-square" alt="Model Context Protocol">
+<img src="https://img.shields.io/badge/AI_Agents-1a7f37?style=flat-square" alt="AI Agents">
+<img src="https://img.shields.io/badge/AI_Frameworks-1a7f37?style=flat-square" alt="AI Frameworks">
 </td>
 </tr>
 <tr>
@@ -183,6 +188,7 @@ Windows dotfiles and environment setup.<br>
 <td align="right"><b>RF</b></td>
 <td>
 <img src="https://img.shields.io/badge/SDR-0969da?style=flat-square">
+<img src="https://img.shields.io/badge/SDR%2B%2B-0969da?style=flat-square" alt="SDR++">
 <img src="https://img.shields.io/badge/GNU_Radio-0969da?style=flat-square">
 <img src="https://img.shields.io/badge/URH-0969da?style=flat-square">
 <img src="https://img.shields.io/badge/CST_Studio_Suite-0969da?style=flat-square">
@@ -216,6 +222,7 @@ Windows dotfiles and environment setup.<br>
 <td align="right"><b>Automation</b></td>
 <td>
 <img src="https://img.shields.io/badge/Selenium-8957e5?style=flat-square&logo=selenium&logoColor=white" alt="Selenium">
+<img src="https://img.shields.io/badge/Playwright-8957e5?style=flat-square" alt="Playwright">
 <img src="https://img.shields.io/badge/Power_Apps-8957e5?style=flat-square" alt="Microsoft Power Apps">
 <img src="https://img.shields.io/badge/Power_Automate-8957e5?style=flat-square" alt="Microsoft Power Automate">
 <img src="https://img.shields.io/badge/Shell_Scripting-8957e5?style=flat-square" alt="Shell Scripting">
