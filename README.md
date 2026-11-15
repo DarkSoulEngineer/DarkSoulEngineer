@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/catalin-milchis-824b61335"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/catalin-milchis"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://brasovcyber.ro"><img src="https://img.shields.io/badge/Brașov_Cybersecurity_Community-b62324?style=for-the-badge" alt="Brașov Cybersecurity Community"></a>
 </p>
 
